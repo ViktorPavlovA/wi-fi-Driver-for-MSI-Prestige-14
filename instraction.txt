@@ -1,0 +1,4 @@
+  746  sudo make 
+  747  sudo make -j4
+  748  sudo make install
+  749  reboot
